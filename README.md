@@ -12,3 +12,6 @@ With this ABAP program you can query program variants and print them on hierarch
 
 ### Drill-down form the report to the variant editor
 <img width="1302" height="338" alt="pic3" src="https://github.com/user-attachments/assets/934ea6f0-7aeb-4e4b-9099-d4798a242d4c" />
+
+### JSON file preview
+<img width="1006" height="601" alt="pic4" src="https://github.com/user-attachments/assets/b557456b-23cb-4e70-a271-0b26d198da30" />
