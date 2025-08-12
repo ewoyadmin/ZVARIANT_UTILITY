@@ -2,7 +2,7 @@
 
 ## Program variants export utility
 
-With this program you can query program variants and print them on hierarchy report with drill-down to variant editor or export to a JSON file. From the report, it is also possible to export to Excel.
+With this ABAP program you can query program variants and print them on hierarchy report with drill-down to variant editor or export to a JSON file. From the report, it is also possible to export to Excel.
 
 ### Selection Screen
 <img width="992" height="316" alt="pic1" src="https://github.com/user-attachments/assets/71e2696b-ebee-4695-97cd-b3279c8090bc" />
